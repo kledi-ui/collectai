@@ -1,1 +1,1 @@
-# collectai
+# CollectAi Challenge
